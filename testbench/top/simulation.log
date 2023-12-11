@@ -1,0 +1,35 @@
+Reading top.hex
+top.hex loaded into memory
+Memory 5 bytes = 0x6f 0x00 0x00 0x0b 0x13
+VCD info: dumpfile top.vcd opened for output.
+Get AB40 flag, user function starts at              2462263
+LA MM started
+LA UART started with random delay      146330 cycles
+UART raised interrupt at              3658238
+Call function matmul() in User Project BRAM (mprjram, 0x38000000) return value passed, 0x003e
+tx data bit index 0: 1
+tx data bit index 1: 0
+tx data bit index 2: 1
+tx data bit index 3: 1
+tx data bit index 4: 1
+tx data bit index 5: 1
+tx data bit index 6: 0
+tx data bit index 7: 0
+tx complete 2
+rx data bit index 0: 1
+rx data bit index 1: 0
+rx data bit index 2: 1
+rx data bit index 3: 1
+rx data bit index 4: 1
+rx data bit index 5: 1
+rx data bit index 6: 0
+rx data bit index 7: 0
+recevied word  61
+Call function matmul() in User Project BRAM (mprjram, 0x38000000) return value passed, 0x0044
+Call function matmul() in User Project BRAM (mprjram, 0x38000000) return value passed, 0x004a
+Call function matmul() in User Project BRAM (mprjram, 0x38000000) return value passed, 0x0050
+LA MM passed
+LA FIR started
+[1;31m
+Monitor: Timeout, Test LA (RTL) Failed
+[0m
